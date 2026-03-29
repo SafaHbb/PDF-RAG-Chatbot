@@ -2,6 +2,10 @@
 
 Chat with any PDF using a local AI — no API key needed.
 
+<img width="525" height="427" alt="image" src="https://github.com/user-attachments/assets/eff96cf6-3352-44b9-80ab-b5e61839ee45" />
+
+
+
 ## What it does
 Upload a PDF, ask questions about it, and get answers from the AI.
 Everything runs on your own machine using Ollama.
